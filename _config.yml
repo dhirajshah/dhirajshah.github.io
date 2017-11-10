@@ -1,6 +1,6 @@
 # Dependencies
 markdown:         kramdown
-highlighter:      pygments
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
@@ -10,20 +10,19 @@ permalink:        pretty
 title:            Dhiraj Shah
 tagline:          'A personal blog'
 description:      'Coming soon'
-url:              http://dhirajshah.github.io
+url:              http://dhirajshah.com
+paginate:         1
 baseurl:          /
 
 author:
   name:           'Dhiraj Shah'
   url:            https://twitter.com/dhiraj_sh
 
-paginate:         5
-
 # Custom vars
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/dhirajshah/dhirajshah.github.io
 
 # Plugins
 plugins:
