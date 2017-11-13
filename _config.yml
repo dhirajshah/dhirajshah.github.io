@@ -10,9 +10,9 @@ permalink:        pretty
 title:            Dhiraj Shah
 tagline:          'A personal blog'
 description:      'Coming soon'
-url:              http://dhirajshah.com
+url:              http://dhirajshah.com/
 paginate:         1
-baseurl:          http://dhirajshah.com/
+baseurl:          /
 
 author:
   name:           'Dhiraj Shah'
