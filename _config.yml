@@ -12,7 +12,7 @@ tagline:          'A personal blog'
 description:      'Coming soon'
 url:              http://dhirajshah.com
 paginate:         1
-baseurl:          "/"
+baseurl:          http://dhirajshah.com/
 
 author:
   name:           'Dhiraj Shah'
